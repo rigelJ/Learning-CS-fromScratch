@@ -23,6 +23,6 @@ Time：20h
 
 Tips：Bash  |  Script  |  Vim  |  Data-Wrangling |  Git |  Debuging |  Security
 
-Guides：(https://rigelj.github.io/2023/03/19/MIT-MissingSemester/)
+Guides：[MissingSemester](https://rigelj.github.io/2023/03/19/MIT-MissingSemester/)
 
 ---
