@@ -7,7 +7,7 @@
 
 -   /MIT-MissingSemester  
 
--   /CS-106B   （Unfinished）
+-   /Prinston Algorism （Unfinished）
 
   
 
